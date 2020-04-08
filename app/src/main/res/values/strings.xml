@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">C0782918_Ex7</string>
+    <string name="title_home">Android</string>
+    <string name="title_dashboard">Student ID</string>
+    <string name="title_notifications">About Us</string>
+    <string name="android_string">
+        Android is a mobile operating system developed by Google. \n
+        It is used by several smartphones and tablets. \n
+        Examples include the Sony Xperia, the Samsung Galaxy, and the Google Nexus One.\n
+        The Android operating system (OS) is based on the Linux kernel.\n
+        Unlike Apple's iOS, Android is open source, meaning developers can modify and customize the OS for each phone.\n
+        Therefore, different Android-based phones often have different graphical user interfaces GUIs even though they use the same OS.\n
+    </string>
+
+    <string name="student_string">
+        Name - Amanpreet kaur\n
+        Student ID - C0782918
+    </string>
+
+    <string name="aboutUs_string">
+        Lambton in Toronto at Cestar College\n
+
+        Mobile- 416-485-2098\n
+        400-265 Yorkland Blvd\n
+        Toronto, ON M2J 1S5\n
+        lambton@​cestarcollege.com
+    </string>
+
+</resources>
